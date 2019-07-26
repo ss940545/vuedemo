@@ -1,0 +1,5 @@
+export const SELECTDATA = 'SELECTDATA';
+export const ADDDATA ='ADDDATA';
+export const UPDATADATA = 'UPDATADATA';
+export const DELETEADATA = 'DELETEADATA';
+export const SELECTONEDATA = 'SELECTONEDATA';
